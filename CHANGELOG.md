@@ -10,6 +10,13 @@
 
 **Note**: Gaps between patch versions are faulty/broken releases.
 
+## 0.6.12
+
+- **Internal**
+    - upgrade react to 16.13.0
+- **Polish**
+    - prettier formatting
+
 ## 0.6.11
 
 - **New Feature**

@@ -32,7 +32,7 @@
     "eslint-plugin-react": "2.5.2",
     "prettier": "^1.7.4",
     "prop-types": "^15.5.10",
-    "react": "^15.6.1",
+    "react": "^16.13.0",
     "tape": "3.5.0"
   },
   "tags": ["tcomb", "form", "forms", "react", "react-native", "react-component"],
