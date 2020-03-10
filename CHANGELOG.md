@@ -13,7 +13,7 @@
 ## 0.6.12
 
 - **Internal**
-    - upgrade react to 16.13.0
+    - upgrade react to 16.13.0 and react-native to 0.61.5
 - **Polish**
     - prettier formatting
 
