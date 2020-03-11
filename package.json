@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint lib",
+    "lint:fix": "eslint lib --fix",
     "test": "npm run lint && babel-node test"
   },
   "repository": {
@@ -31,8 +32,9 @@
     "eslint-plugin-react": "2.5.2",
     "prettier": "^1.7.4",
     "prop-types": "^15.5.10",
-    "react": "^16.13.0",
-    "react-native": "^0.61.5",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-native": "0.59.10",
     "tape": "3.5.0"
   },
   "tags": [
